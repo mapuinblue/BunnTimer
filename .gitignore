@@ -1,0 +1,6 @@
+
+node_modules/
+.DS_Store   # Archivos innecesarios en MacOS
+*.log       # Archivos de registro (logs)
+dist/       # Carpeta de salida de compilación
+.env        # Archivos con credenciales privadas
