@@ -4,3 +4,5 @@ node_modules/
 *.log       # Archivos de registro (logs)
 dist/       # Carpeta de salida de compilación
 .env        # Archivos con credenciales privadas
+
+out/
