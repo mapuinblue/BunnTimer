@@ -29,6 +29,13 @@ finishBtn.addEventListener("click", () => {
     window.electronAPI.loadPage("finishDay.html");
 })
 
+// Enlazar el botón Timer con setTask.html
+const timerBtn = document.getElementById("timer-btn");
+timerBtn.addEventListener("click", () => {
+    console.log("Navigating to setTask.html"); // Debugging
+    window.electronAPI.loadPage("timer/setTask.html");
+});
+
 for (let i = 1; i <= 7; i++) {
     let taskSpan = document.getElementById("text-task-" + i);
 
