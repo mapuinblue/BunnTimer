@@ -19,8 +19,8 @@ Dificultad para visualizar el progreso diario de tareas y mantener la motivació
 ## 🖥️ Capturas de pantalla
 | Vista inicial | Lista de tareas | Progreso |
 |---------------|-----------------|----------|
-| <img width="541" height="599" alt="Image" src="https://github.com/user-attachments/assets/837e1458-2a7a-4fc1-993a-5af174e25a44" /> | ![List](list.png) | ![Progress](partial_progress.png) |
-| Pantalla de inicio con fecha/hora real | Visualización de tareas organizadas | Tracking de progreso en tiempo real |
+| <img width="541" height="599" alt="Image" src="https://github.com/user-attachments/assets/837e1458-2a7a-4fc1-993a-5af174e25a44" /> | <img width="546" height="606" alt="Image" src="https://github.com/user-attachments/assets/d571d5ab-d755-4523-87d0-d8bcafd9e7fd" /> | <img width="540" height="603" alt="Image" src="https://github.com/user-attachments/assets/d8e9c720-114d-489e-8397-cdb1a261cc9d" /> |
+| Pantalla de inicio | Visualización de tareas organizadas/fecha | Tracking de progreso en tiempo real |
 
 ## ⚙️ Funcionalidades clave
 | Característica | Detalle técnico | Habilidad demostrada |
