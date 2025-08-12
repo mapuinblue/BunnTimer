@@ -6,7 +6,7 @@
 > Aplicación de escritorio para gestión de tareas con tracking de progreso en tiempo real y diseño ilustrado personalizado.
 
 ## 🌟 Vista general
-Aplicación tipo *to-do list* para escritorio que muestra la fecha/hora actual al iniciar y calcula automáticamente tu porcentaje de productividad diario mediante una barra de progreso interactiva.
+Aplicación tipo *to-do list* para escritorio que muestra la fecha actual al iniciar y calcula automáticamente tu porcentaje de productividad diario mediante una barra de progreso interactiva.
 
 **Problema resuelto**:  
 Dificultad para visualizar el progreso diario de tareas y mantener la motivación en tiempo real.
