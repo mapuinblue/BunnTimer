@@ -46,7 +46,7 @@ Dificultad para visualizar el progreso diario de tareas y mantener la motivació
 ## 🚀 Instalación
 ```bash
 # Clonar repositorio
-git clone https://github.com/tu-usuario/bunn-productivity.git
+git clone https://github.com/mapuinblue/BunnTimer.git
 
 # Instalar dependencias
 npm install
