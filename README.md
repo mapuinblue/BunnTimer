@@ -8,8 +8,8 @@
 ## 🌟 Vista general
 Aplicación tipo *to-do list* para escritorio que muestra la fecha actual al iniciar y calcula automáticamente tu porcentaje de productividad diario mediante una barra de progreso interactiva. 
 
-**Futuras Actualiaciones**:
-Temporizador del método Pomodoro en progreso.
+**Últimas Actualiaciones**:
+Temporizador del método Pomodoro integrado con opción para agregar tareas específicas con sus respectivos tiempos de descanso.
 
 **Problema resuelto**:  
 Dificultad para visualizar el progreso diario de tareas y mantener la motivación en tiempo real.
